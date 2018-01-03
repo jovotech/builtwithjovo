@@ -4,9 +4,10 @@ List of Voice Apps built with the Jovo Framework
 * Published Voice Apps
   * Alexa Skills
   * Google Actions
-* GitHub Repositories
-* Community Projects
-* Posts and Articles
+  * GitHub Repositories
+* Community Contributions
+  * Posts and Articles
+  * Videos
 
 ## Published Voice Apps
 
@@ -22,12 +23,15 @@ List of Voice Apps built with the Jovo Framework
 ### Google Actions
 * 
 
-## GitHub Repositories
+### GitHub Repositories
 * [PushBullet](https://github.com/haukesand/SearchBullet) by haukesand
 * [PokeDex](https://github.com/dmarvp/jovoPokedex)
 
-## Community Projects
+## Community Contributions
 
-## Posts and Articles
+### Posts and Articles
 * [Building A Cross-Platform Voice App With Jovo](https://bespoken.io/blog/developer-diary-building-a-cross-platform-voice-app-with-jovo/) by Diego Martín
 * [Creating a cross-platform voice app using Jovo](https://medium.com/@mariomenti/creating-a-cross-platform-voice-app-using-jovo-f9ee373569c) by mario menti
+
+### Videos
+* [Creating an Alexa skill with the Jovo Framework](https://www.youtube.com/watch?v=8IQfhX2WJ_I)
