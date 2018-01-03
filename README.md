@@ -13,10 +13,10 @@ List of Voice Apps built with the Jovo Framework
 ### Published
 
 * **Panda Rescue** ([Alexa Skill](https://www.amazon.com/dp/B078LL5ZL3)): Help a rescued baby panda grow up and be released back into the wild in this voice based adventure game! by www.asklifebot.com
-* **Epic Battle** ([Alexa Skill]((https://www.amazon.com/dp/B076P56PCF)): Launch an epic battle between any two people or celebrities you can think of! by Speakway
-* **Black Twelve** ([Alexa Skill]((https://www.amazon.com/dp/B0788NRQH3)): Black Twelve is exactly like Black Jack, with dice... And you go for 12 instead of 21. Let your trusted dealer Alexa bring the casino experience to your home! by Florian Hollandt
-* **Kilt Sayings** ([Alexa Skill]((https://www.amazon.com/dp/B076MLSVW5)): A skill for Crowne Point Theatre, a new movie theatre in Elizabethtown, Kentucky. by Speakway
-* **Crown Point Theatre** ([Alexa Skill]((https://www.amazon.com/dp/B077SH1N43)): Listen to Kevin (KT) the Kiltman's famous sayings from the Kiltology books! by Speakway
+* **Epic Battle** ([Alexa Skill](https://www.amazon.com/dp/B076P56PCF)): Launch an epic battle between any two people or celebrities you can think of! by Speakway
+* **Black Twelve** ([Alexa Skill](https://www.amazon.com/dp/B0788NRQH3)): Black Twelve is exactly like Black Jack, with dice... And you go for 12 instead of 21. Let your trusted dealer Alexa bring the casino experience to your home! by Florian Hollandt
+* **Kilt Sayings** ([Alexa Skill](https://www.amazon.com/dp/B076MLSVW5)): A skill for Crowne Point Theatre, a new movie theatre in Elizabethtown, Kentucky. by Speakway
+* **Crown Point Theatre** ([Alexa Skill](https://www.amazon.com/dp/B077SH1N43)): Listen to Kevin (KT) the Kiltman's famous sayings from the Kiltology books! by Speakway
 * **Sun Valley Mountain Report** ([Alexa Skill](https://www.amazon.com/dp/B077GB6WVP)), [Google Action](https://assistant.google.com/services/a/id/62396494ec955c92/)): Sun Valley Resort winter mountain conditions and snow report for Bald Mountain and Dollar Mountain. by Octavio Menocal for Sun Valley Company
 
 ## GitHub Repositories
