@@ -20,6 +20,7 @@ List of Voice Apps built with the Jovo Framework
 * **Sun Valley Mountain Report** ([Alexa Skill](https://www.amazon.com/dp/B077GB6WVP), [Google Action](https://assistant.google.com/services/a/id/62396494ec955c92/)): Sun Valley Resort winter mountain conditions and snow report for Bald Mountain and Dollar Mountain. by Octavio Menocal for Sun Valley Company
 * **Pushup Challenge** ([Alexa Skill](https://www.amazon.com/dp/B075SRPJ47/)): Get to 100 Pushups in a row with the Pushup Challenge Alexa Skill, by Jan König
 * **5 Minuten GYMONDO Workout** ([Alexa Skill](https://www.amazon.de/dp/B077TVWFN1)): GYMONDO - Dein Fitness Training für Zuhause. by Jovo Studios for Gymondo GmbH
+* **Coinbase Price** ([Alexa Skill](https://www.amazon.com/dp/B078KR7ZCN), [Google Action](https://assistant.google.com/services/a/id/502bf875513caba0?source=web)): Pulls the latest market data for all the cryptocurrencies currently listed on the GDAX exchange. by Zach Nagengast
 
 ### GitHub Repositories
 * [**SearchBullet**](https://github.com/haukesand/SearchBullet): Searchbullet is a custom skill to allow search with google home and push the results to your smartphone. by haukesand
