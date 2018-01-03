@@ -17,7 +17,7 @@ List of Voice Apps built with the Jovo Framework
 * **Black Twelve** ([Alexa Skill](https://www.amazon.com/dp/B0788NRQH3)): Black Twelve is exactly like Black Jack, with dice... And you go for 12 instead of 21. Let your trusted dealer Alexa bring the casino experience to your home! by Florian Hollandt
 * **Kilt Sayings** ([Alexa Skill](https://www.amazon.com/dp/B076MLSVW5)): A skill for Crowne Point Theatre, a new movie theatre in Elizabethtown, Kentucky. by Speakway
 * **Crown Point Theatre** ([Alexa Skill](https://www.amazon.com/dp/B077SH1N43)): Listen to Kevin (KT) the Kiltman's famous sayings from the Kiltology books! by Speakway
-* **Sun Valley Mountain Report** ([Alexa Skill](https://www.amazon.com/dp/B077GB6WVP)), [Google Action](https://assistant.google.com/services/a/id/62396494ec955c92/)): Sun Valley Resort winter mountain conditions and snow report for Bald Mountain and Dollar Mountain. by Octavio Menocal for Sun Valley Company
+* **Sun Valley Mountain Report** ([Alexa Skill](https://www.amazon.com/dp/B077GB6WVP), [Google Action](https://assistant.google.com/services/a/id/62396494ec955c92/)): Sun Valley Resort winter mountain conditions and snow report for Bald Mountain and Dollar Mountain. by Octavio Menocal for Sun Valley Company
 
 ## GitHub Repositories
 * [**SearchBullet**](https://github.com/haukesand/SearchBullet): Searchbullet is a custom skill to allow search with google home and push the results to your smartphone. by haukesand
