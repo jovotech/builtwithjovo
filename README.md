@@ -1,7 +1,8 @@
 # Built with Jovo
 List of Voice Apps built with the Jovo Framework
 
-* Published Voice Apps
+* Voice Apps
+  * Cross-Platform
   * Alexa Skills
   * Google Actions
   * GitHub Repositories
@@ -9,9 +10,9 @@ List of Voice Apps built with the Jovo Framework
   * Posts and Articles
   * Videos
 
-## Published Voice Apps
+## Voice Apps
 
-### Cross-Platform
+### Cross-Platform Voice Apps
 * Sun Valley Mountain Report ([Alexa Skill](https://www.amazon.com/Sun-Valley-Company-Mountain-Report/dp/B077GB6WVP), [Google Action](https://assistant.google.com/services/a/id/62396494ec955c92/)) by Octavio Menocal
 
 ### Alexa Skills
