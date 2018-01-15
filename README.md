@@ -32,6 +32,7 @@ List of Voice Apps built with the Jovo Framework
 ### Posts and Articles
 * [**Building A Cross-Platform Voice App With Jovo**](https://bespoken.io/blog/developer-diary-building-a-cross-platform-voice-app-with-jovo/) by Diego Martín
 * [**Creating a cross-platform voice app using Jovo**](https://medium.com/@mariomenti/creating-a-cross-platform-voice-app-using-jovo-f9ee373569c) by mario menti
+* [**Create Cross-Platform Voice Applications With Jovo**](https://dzone.com/articles/create-cross-platform-voice-applications-with-jovo) by Chris Ward
 
 ### Videos
 * [**Creating an Alexa skill with the Jovo Framework**](https://www.youtube.com/watch?v=8IQfhX2WJ_I) by DabbleLab
