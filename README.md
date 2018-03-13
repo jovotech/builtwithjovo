@@ -23,6 +23,10 @@ List of Voice Apps built with the Jovo Framework
 * **Coinbase Price** ([Alexa Skill](https://www.amazon.com/dp/B078KR7ZCN), [Google Action](https://assistant.google.com/services/a/id/502bf875513caba0?source=web)): Pulls the latest market data for all the cryptocurrencies currently listed on the GDAX exchange. by Zach Nagengast
 * **Voice Pokedex (unofficial)** ([Alexa Skill](https://www.amazon.com/dp/B07886H77M)): Pokémon Pokédex meets voice technology. Ask Voice Pokédex to lookup a number and it will tell you the Pokémon's name, description, and picture (on Echo Show), by Diego Martín for Bespoken
 * **ClickUp** ([Alexa Skill](https://www.amazon.com/dp/B0795DTYJY), [Google Action](https://assistant.google.com/services/a/uid/000000fc81b2e464?hl=en)): Enable the ClickUp Skill to create tasks, list tasks due today, tomorrow, and overdue tasks. by Octavio Menocal for Mango Technologies
+* **Our Society** ([Alexa Skill](https://www.amazon.com/dp/B07B2PCXG3)): Get name and phone number of your representative and also find out what are your upcoming elections. by pulselabs.co
+* **Vision Australia** ([Google Action](https://assistant.google.com/services/a/uid/000000625084fc1f?hl=en)): Vision Australia provides information about our retail stores, library, contacts, eligibility and organisation information. by Octavio Menocal for Vision Australia
+* **Riddle of the Day** ([Alexa Skill](https://www.amazon.com/dp/B07BBS2XK6)): Riddle of the Day plays you a new riddle every morning for you to try and solve before the answer is revealed every evening. by www.asklifebot.com
+
 
 ### GitHub Repositories
 * [**SearchBullet**](https://github.com/haukesand/SearchBullet): Searchbullet is a custom skill to allow search with google home and push the results to your smartphone. by haukesand
