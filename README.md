@@ -27,11 +27,13 @@ List of Voice Apps built with the Jovo Framework
 * **Vision Australia** ([Google Action](https://assistant.google.com/services/a/uid/000000625084fc1f?hl=en)): Vision Australia provides information about our retail stores, library, contacts, eligibility and organisation information. by Octavio Menocal for Vision Australia
 * **Riddle of the Day** ([Alexa Skill](https://www.amazon.com/dp/B07BBS2XK6)): Riddle of the Day plays you a new riddle every morning for you to try and solve before the answer is revealed every evening. by www.asklifebot.com
 * **Age Smart** ([Alexa Skill](https://www.amazon.com/dp/B07BS59W1Q), [Google Action](https://assistant.google.com/services/a/uid/0000003fbfc88af9?hl=en)): Age Smart is an assistant designed for senior citizens. Core functionality is split into three areas: alerts when you need them, memory improvement, and wellness of mind & body. by Octavio Menocal for Age Smart
+* **Shout for Nicaragua** ([Alexa Skill](https://www.amazon.com/dp/B07DTQYB5V), [Google Action](https://assistant.google.com/services/a/uid/0000001feb5fbc9f?hl=en)): Shout for Nicaragua explains day by day what's happening in the protests against the government of Daniel Ortega in Nicaragua 2018. You can ask for a specific day, like day 1, or day 20, and you'll hear the facts of every day.
 
 
 ### GitHub Repositories
 * [**SearchBullet**](https://github.com/haukesand/SearchBullet): Searchbullet is a custom skill to allow search with google home and push the results to your smartphone. by haukesand
 * [**Voice Pokédex**](https://github.com/dmarvp/jovoPokedex) by Diego Martín
+* [**Shout for Nicaragua**](https://github.com/omenocal/shout-for-nicaragua-voice-app) by Octavio Menocal
 
 ## Community Contributions
 
