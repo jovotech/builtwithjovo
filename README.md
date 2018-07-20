@@ -12,6 +12,7 @@ List of Voice Apps built with the Jovo Framework
 
 ### Published
 
+* **Green Guru** ([Alexa Skill](https://www.amazon.ca/dp/B07FQRCSSK)): Green Guru tells users their waste collection schedule for the City of Toronto, ON, Canada. Users can quickly and easily find out which bins (garbage, recycling, etc.) are being picked up every week and on which day. By http://prodigy.ventures
 * **Panda Rescue** ([Alexa Skill](https://www.amazon.com/dp/B078LL5ZL3)): Help a rescued baby panda grow up and be released back into the wild in this voice based adventure game! by www.asklifebot.com
 * **Epic Battle** ([Alexa Skill](https://www.amazon.com/dp/B076P56PCF)): Launch an epic battle between any two people or celebrities you can think of! by Speakway
 * **Black Twelve** ([Alexa Skill](https://www.amazon.com/dp/B0788NRQH3)): Black Twelve is exactly like Black Jack, with dice... And you go for 12 instead of 21. Let your trusted dealer Alexa bring the casino experience to your home! by Florian Hollandt
