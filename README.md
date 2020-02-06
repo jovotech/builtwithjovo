@@ -30,7 +30,7 @@ List of Voice Apps built with the Jovo Framework
 * **Age Smart** ([Alexa Skill](https://www.amazon.com/dp/B07BS59W1Q), [Google Action](https://assistant.google.com/services/a/uid/0000003fbfc88af9?hl=en)): Age Smart is an assistant designed for senior citizens. Core functionality is split into three areas: alerts when you need them, memory improvement, and wellness of mind & body. by Octavio Menocal for Age Smart
 * **Shout for Nicaragua** ([Alexa Skill](https://www.amazon.com/dp/B07DTQYB5V), [Google Action](https://assistant.google.com/services/a/uid/0000001feb5fbc9f?hl=en)): Shout for Nicaragua explains day by day what's happening in the protests against the government of Daniel Ortega in Nicaragua 2018. You can ask for a specific day, like day 1, or day 20, and you'll hear the facts of every day. by Octavio Menocal.
 * **Smarty Pants Trivia** ([Alexa Skill](https://www.amazon.com/QPAmerica-Smarty-Pants/dp/B07BSNYBRW)): Answer hundreds of questions against friends & family and prove once and for all you are the ultimate smarty pants. by Octavio Menocal for QPAmerica
-
+* **My Slackenger** ([Alexa Skill](https://www.amazon.in/taritas-My-Slackenger/dp/B07KF7Z711)): The user can post a message on desired public channel on slack from Alexa.
 
 ### GitHub Repositories
 * [**SearchBullet**](https://github.com/haukesand/SearchBullet): Searchbullet is a custom skill to allow search with google home and push the results to your smartphone. by haukesand
